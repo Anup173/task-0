@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>spider task 0</title>
+</head>
+<body>
+<h1>SPIDER TASK O </h1> 
+<p>hello sir or mam my self anup from cse<br>Me from Tripura <br>I love coding,singing songs,below i am giving the link for opening the cherry 
+jackpot game</p>
+<img src="http://kingofwallpapers.com/king-clipart/king-clipart-010.jpg"class="king image">
+</body>
+<style>
+body{
+color:rgba(234,87,123,0.2);
+}
+p{
+color:green;
+}
+</style>
+</html>
